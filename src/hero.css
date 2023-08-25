@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+}
+
+body{
+font-family: 'Clash Display', sans-serif;
+}
+
+section.top{
+	width: 90%;
+	margin: 0 auto;
+}
+
+.title{
+	margin: 2rem 0; 
+	font-size:1rem;
+	display: flex;
+	justify-content: space-between;
+}
+.nav{
+	font-size: 8rem;
+	color: #004b00;
+	margin-bottom: 2rem;
+}
+
+/*   second section start */
+section.second{
+	height: 100vh;
+	background-color:coral;
+}
+
+
+
+
+
+
+
+

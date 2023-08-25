@@ -1,0 +1,21 @@
+{
+  "name": "pug_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "parcel src/hero.pug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.9.3",
+    "parcel": "^2.9.3",
+    "pug": "^3.0.2"
+  }
+}
+
+
+
+
